@@ -9,6 +9,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-badge&logo=css3)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-badge&logo=sass)
+![SASS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-badge&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-badge&logo=bootstrap)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-badge&logo=mysql)
