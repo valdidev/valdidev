@@ -2,7 +2,7 @@
 
 
 - 🎓 Graduated as a technician in Web Application Development [DAW](https://ceice.gva.es/es/web/formacion-profesional/publicador-ciclos/-/asset_publisher/FRACVC0hANWa/content/ciclo-formativo-desarrollo-de-aplicaciones-web) and [ASIR](https://ceice.gva.es/es/web/formacion-profesional/publicador-ciclos/-/asset_publisher/FRACVC0hANWa/content/ciclo-formativo-administracion-de-sistemas-informaticos-en-red) Computer Networking & Systems Administration
-- 🔝 Junior Frontend Developer with 5+ years of system administration experience
+- 🔝 Frontend Developer with 5+ years of system administration experience
 
 ## ⚡ My consolidated technologies
 
